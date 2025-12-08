@@ -3,11 +3,21 @@
 Một ứng dụng ghi chú đơn giản được xây dựng bằng Flutter, cho phép người dùng tạo, xem, sửa và xóa ghi chú một cách dễ dàng. Dữ liệu được lưu trữ cục bộ trên thiết bị, đảm bảo tính riêng tư và khả năng truy cập ngoại tuyến.
 
 
+## 🎬 Video Demo
+Xem video demo của ứng dụng tại đây:
+**https://drive.google.com/drive/folders/1y1w3rmnSp0AF0i5YOxULNuWD8E1BJdAS?usp=sharing**
+
 ## Live Demo (Phiên bản Web)
 Trải nghiệm ứng dụng trực tiếp trên Vercel:
 **https://exercise-week-5-git-main-kiet7732s-projects.vercel.app/**
 
 *Lưu ý: Vì đây là giao diện thiết kế cho Mobile, vui lòng nhấn **F12** -> chọn **Chế độ xem di động** (Ctrl+Shift+M) trên trình duyệt để có trải nghiệm tốt nhất.*
+## ✨ Ảnh giao diện
+
+| Màn hình chính | Màn hình chỉnh sửa | Hộp thoại xác nhận |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="250"> | <img src="screenshots/edit.png" width="250"> | <img src="screenshots/dialog.png" width="250"> |
+
 ## ✨ Tính năng
 
 -   **Quản lý Ghi chú (CRUD):** Tạo, đọc, cập nhật và xóa ghi chú một cách đầy đủ.
