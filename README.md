@@ -1,4 +1,4 @@
-# Ứng dụng Ghi chú Đơn giản (Simple Note App)
+# Ứng dụng Ghi chú Đơn giản
 
 Một ứng dụng ghi chú đơn giản được xây dựng bằng Flutter, cho phép người dùng tạo, xem, sửa và xóa ghi chú một cách dễ dàng. Dữ liệu được lưu trữ cục bộ trên thiết bị, đảm bảo tính riêng tư và khả năng truy cập ngoại tuyến.
 
@@ -65,8 +65,8 @@ lib
 
 2.  **Clone Repository:**
     ```sh
-    git clone <URL_repository_cua_ban>
-    cd <ten_thu_muc_du_an>
+    git clone https://github.com/kiet7732/exercise_week_5.git
+    cd exercise_week_5
     ```
 
 3.  **Cài đặt Dependencies:**
