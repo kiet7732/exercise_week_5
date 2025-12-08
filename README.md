@@ -14,9 +14,9 @@ Trải nghiệm ứng dụng trực tiếp trên Vercel:
 *Lưu ý: Vì đây là giao diện thiết kế cho Mobile, vui lòng nhấn **F12** -> chọn **Chế độ xem di động** (Ctrl+Shift+M) trên trình duyệt để có trải nghiệm tốt nhất.*
 ## ✨ Ảnh giao diện
 
-| Màn hình chính | Màn hình chỉnh sửa | Hộp thoại xác nhận |
-| :---: | :---: | :---: |
-| <img src="screenshots/home.png" width="250"> | <img src="screenshots/edit.png" width="250"> | <img src="screenshots/dialog.png" width="250"> |
+| Màn hình chính | Màn hình chỉnh sửa |
+| :---: | :---: |
+| <img src="screenshots/Ảnh chụp màn hình 2025-12-08 215843.png" width="250"> | <img src="screenshots/Ảnh chụp màn hình 2025-12-08 215956.png" width="250"> |
 
 ## ✨ Tính năng
 
